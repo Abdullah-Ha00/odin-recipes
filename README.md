@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Project-html basics
+Odin Project-html basics: Headings, paragraphs, lists, and links
