@@ -4,3 +4,6 @@ body {
 .text {
     font-size: 20px;
 }
+a {
+    color: hsl(264, 100%, 19%);
+}
