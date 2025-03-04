@@ -13,4 +13,6 @@ li {
 h1, h2 {
     text-decoration: underline;
 }
-
+img {
+    margin-left: 25px;
+}
