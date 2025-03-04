@@ -7,3 +7,7 @@ body {
 a {
     color: hsl(264, 100%, 19%);
 }
+li {
+    margin: 16px;
+} 
+
